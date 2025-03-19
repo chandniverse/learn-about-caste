@@ -1,0 +1,13 @@
+title: "Caste Studies Resources"
+description: "A curated list of books, papers, and media exploring caste dynamics in South Asia and the diaspora."
+theme: jekyll-theme-dinky
+
+# Optional settings
+show_downloads: false
+google_analytics:  
+
+# GitHub Pages specific
+repository: chandniverse/learn-about-caste
+
+# Build settings
+markdown: kramdown
